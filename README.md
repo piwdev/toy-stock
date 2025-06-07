@@ -2,15 +2,13 @@
 
 ## 개요
 
-### 배포 주소 https://darling-custard-f8aaa2.netlify.app
+### ~~배포 주소 https://darling-custard-f8aaa2.netlify.app~~ 배포 종료
 
-안녕하세요, 프론트엔드 신입 개발자 박인우입니다.
+안녕하세요, 박인우입니다.
 
-본 서비스는 코드스테이츠 프론트엔드 부트캠프 41기의 수료 프로젝트로 제작했던 스탁벅스의 조회 기능을 Typescript를 이용해 혼자 만들어 본 서비스입니다.
+본 서비스는 주식 조회 기능을 Typescript를 이용해 제작한 서비스입니다.
 
 배포는 Netlify 를 이용했습니다.
-
-https://github.com/codestates-seb/seb41_main_032
 
 ### 사용 API
 https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15094808
